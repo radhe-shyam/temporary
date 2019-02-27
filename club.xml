@@ -1,0 +1,54 @@
+
+<container>
+<club>
+<title>Unifyed QA</title>
+<mission>
+This online video tutorial is specially designed for beginners with little or no manual testing experience. But before you begin, refer this comprehensive guide on choosing QA as your career
+</mission>
+<contact>
+<contactemail1>Snigdha.narain@gmail.com</contactemail1>
+</contact>
+<advisor>
+           
+<advisorname1>Snighda Narain</advisorname1>
+           
+<advisoremail1>unifyedqa@unifyed.comt.edu</advisoremail1>
+     
+</advisor>
+</club>
+<club>
+<title>Unifyed dev</title>
+<mission>
+JIRA is a tool developed by Australian Company Atlassian. It is used for bug tracking, issue tracking, and project management. The name "JIRA" is actually inherited from the Japanese word "Gojira" which means "Godzilla".
+</mission>
+<contact>
+<contactemail1>unifyeddev@unifyed.com</contactemail1>
+</contact>
+<advisor>
+           
+<advisorname1>Mark Manmohann</advisorname1>
+           
+<advisoremail1>mark@unifyed.com</advisoremail1>
+     
+</advisor>
+</club>
+<club>
+<title>Unifyed Product Team</title>
+<mission>
+The basic use of this tool is to track issue and bugs related to your software and Mobile apps. It is also used for project management. The JIRA dashboard consists of many useful functions and features which make handling of issues easy. Some of the key features are listed below. Let's learn JIRA Defect and Project tracking software with this Training Course.
+</mission>
+<contact>
+<contactemail1>unifyedproduct@unifyed.com</contactemail1>
+</contact>
+<advisor>
+           
+<advisorname1>Dennis  Micheal</advisorname1>
+           
+<advisoremail1>canterburyd@easternct.edu</advisoremail1>
+<advisorname2>Bonsu Osei</advisorname2>
+           
+<advisoremail2>oseib@easternct.edu</advisoremail2>
+     
+</advisor>
+</club>
+</container>
